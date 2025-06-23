@@ -1,7 +1,7 @@
 # PIEGE-A-MOUSTIQUES-ET-CHALEUR-HUMAINE-DFTA218
 Simulation de chaleur corporelle
 
-C'est décidé je me lance. J'en ai assez de me faire dévorer je construis une série de pièges à moustiques, ici pas la lutte contre leurs larves mais contre les mostiques femelles assoifées de sang
+C'est décidé je me lance. J'en ai assez de me faire dévorer je construis une série de pièges à moustiques, ici pas la lutte contre leurs larves mais contre les moustiques femelles assoifées de sang
 
 En parallèle de cette vidéo je construis le piège proprement dit mais ici je cherche à fabriquer un "générateur de chaleur humaine qui viendra compléter tout une série de leurres.
 
