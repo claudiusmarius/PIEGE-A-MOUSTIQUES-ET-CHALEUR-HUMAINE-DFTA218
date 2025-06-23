@@ -9,4 +9,4 @@ C'est simple je me suis rappelé que dans les années 1981 pour mon deuxième jo
 
 Je garde donc cette idée et j'ai utilisé ici un transistor NPN TIP120 (Darlington)
 
-Mon pont de polarisation aurait du être réalisé avec des résistances plus petites afin que son courant soit beaucoup plus petit que le courant de base mais comme mes plus petites valeurs de potentiomètres sont de 10K j'ai éta pénalisé l'important c'est d'en être contient et d'arriver à faire passer un courant de 1A environ
+Mon pont de polarisation aurait du être réalisé avec des résistances plus petites afin que son courant soit beaucoup plus grand que le courant de base mais comme mes plus petites valeurs de potentiomètres sont de 10K j'ai éta pénalisé l'important c'est d'en être contient et d'arriver à faire passer un courant de 1A environ
