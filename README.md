@@ -7,6 +7,6 @@ En parallèle de cette vidéo je construis le piège proprement dit mais ici je 
 
 C'est simple je me suis rappelé qu'en 1981 pour le deuxième job de ma carrière je mettais au point des oscillateurs pour des réemetteurs TV, il fallait trouver le point d'inflection de variation de la fréquence d'un quartz en fonction de sa température. ce quartz était à l'intérieur d'une petite étuve dont les 2 faces latérales étaient équipées chacune d'un transistor type "2N3055".
 
-Je garde donc cette idée et j'ai utilisé ici un transistor NPN TIP120 (Darlington)
+Je garde donc cette idée et j'ai utilisé ici un transistor NPN TIP120 (Darlington).
 
-Mon pont de polarisation aurait du être réalisé avec des résistances de plus petites valeurs afin que son courant soit beaucoup plus grand que le courant de base mais comme mes plus petites valeurs de potentiomètres sont de 10K j'ai éta pénalisé l'important c'est d'en être contient et d'arriver à faire passer un courant de 1A environ
+Mon pont de polarisation aurait du être réalisé avec des résistances de plus petites valeurs afin que son courant soit beaucoup plus grand que le courant de base mais comme mes plus petites valeurs de potentiomètres sont de 10K j'ai éta pénalisé l'important c'est d'en être contient et d'arriver à faire passer un courant de 1A environ.
